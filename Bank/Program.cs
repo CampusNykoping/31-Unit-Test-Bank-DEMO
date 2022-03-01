@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+    Denna demo kommer från Microsoft, 
+https://docs.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code?view=vs-2022
+
+Se även de följande:
+https://docs.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-with-test-explorer?view=vs-2022
+
+ */
+
+
+
+using System;
 
 namespace BankAccountNS
 {
